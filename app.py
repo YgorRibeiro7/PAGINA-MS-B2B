@@ -16,7 +16,7 @@ app.secret_key = 'sua_chave_secreta_aqui'
 DB_HOST = '103.199.186.165'
 DB_NAME = 'teste'
 DB_USER = 'msconnect'
-DB_PASS = 'Ms@2025intelCBA'
+DB_PASS = 'Ms@2026#123'
 
 # Tempo máximo de inatividade em segundos (2 minutos)
 SESSION_TIMEOUT = 120
